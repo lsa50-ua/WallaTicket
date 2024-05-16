@@ -1,0 +1,10 @@
+<style>
+    select {
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        background-color: #fff;
+        color: #333;
+        font-size: 16px;
+        padding: 6px 10px;
+    }
+</style>
